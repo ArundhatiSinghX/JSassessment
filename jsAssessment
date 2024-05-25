@@ -45,4 +45,4 @@ mintNFT("ankit",18,"pink");
 
 listNFTs ();
 let count =getTotalSupply();
-console.log(count);
+console.log("\nTotal number of NFTs minted: " +count);
